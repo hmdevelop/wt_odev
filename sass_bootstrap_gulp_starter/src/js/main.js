@@ -17,9 +17,9 @@ mainApp.config(['$routeProvider', function($routeProvider) {
     controller: 'TarihController'
  }).
 
- when('/Bizeulasin', {
-    templateUrl: 'Bizeulasin.htm',
-    controller: 'BizeulasinController'
+ when('/BizeUlasin', {
+    templateUrl: 'BizeUlasin.htm',
+    controller: 'BizeUlasinController'
  }).
 
  when('/Giris', {
@@ -32,8 +32,13 @@ mainApp.config(['$routeProvider', function($routeProvider) {
     controller: 'HaberekleController'
  }).
 
+ when('/Anasayfa', {
+    templateUrl: 'Anasayfa.htm',
+    controller: 'AnasayfaController'
+ }).
+
    otherwise({
-      redirectTo: '/'
+      redirectTo: '/Anasayfa'
    });
 }]);
 
@@ -49,8 +54,8 @@ mainApp.controller('TarihController', function($scope) {
     $scope.message = "Tarih mesaji";
 });
 
-mainApp.controller('BizeulasinController', function($scope) {
-    $scope.message = "Bizeulasin mesaji";
+mainApp.controller('BizeUlasinController', function($scope) {
+    $scope.message = "BizeUlasin mesaji";
 });
 
 mainApp.controller('GirisController', function($scope) {
@@ -59,4 +64,7 @@ mainApp.controller('GirisController', function($scope) {
 
 mainApp.controller('HaberekleController', function($scope) {
     $scope.message = "Haberekle mesaji";
+});
+mainApp.controller('AnasayfaController', function($scope) {
+    $scope.message = "Anasayfa mesaji";
 });
