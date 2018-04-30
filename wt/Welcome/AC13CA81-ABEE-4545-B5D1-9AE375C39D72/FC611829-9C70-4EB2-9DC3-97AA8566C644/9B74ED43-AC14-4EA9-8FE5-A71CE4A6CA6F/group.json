@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "9B74ED43-AC14-4EA9-8FE5-A71CE4A6CA6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6760431E-92CF-4DCE-AE06-DB57D71F98FA",
+    "height": 213,
+    "width": 960,
+    "x": 0,
+    "y": 691
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FCFF6754-62A7-4AAE-80CE-1326C8D450A6"
+    },
+    {
+      "class": "text",
+      "id": "25C5525D-CCFE-4353-A46B-CC282F106AE4"
+    },
+    {
+      "class": "text",
+      "id": "DA94DE8D-625D-44DD-BBEF-8F192316B4DB"
+    }
+  ],
+  "name": "Styled Text Icon + Text Styles — Usage + Use the toolbar Styl",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE7E1843-E45B-436D-A318-000A9882DD4E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

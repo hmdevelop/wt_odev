@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "FCFF6754-62A7-4AAE-80CE-1326C8D450A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9256759D-27DA-4ACA-A7D6-E73AC93228ED",
+    "height": 66,
+    "width": 66,
+    "x": 0,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "80044F34-B52E-4771-AE36-F9FA452D01FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52931E2D-D7D3-412E-A138-EDE795277C1E"
+    }
+  ],
+  "name": "Styled Text Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "901A71F4-3BDF-40F7-BF42-B44B8145C389",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
