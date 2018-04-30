@@ -1,0 +1,10 @@
+$bg-color: #DFA9A9;
+$color: #2E367C;
+
+@import '../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+
+
+body {
+    background: $bg-color;
+    color:$color;
+}
