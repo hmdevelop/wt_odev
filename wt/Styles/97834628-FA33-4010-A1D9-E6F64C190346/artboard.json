@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "97834628-FA33-4010-A1D9-E6F64C190346",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 680,
+    "width": 820,
+    "x": 0,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2F0BBB29-EC4F-4EC6-BC87-13F95091C4F7"
+    },
+    {
+      "class": "group",
+      "id": "5BC067A5-0E73-49A0-9629-E7E6F8FCA3D3"
+    },
+    {
+      "class": "group",
+      "id": "DF1B3DBB-605A-4381-B3C8-82F59004A0DE"
+    },
+    {
+      "class": "group",
+      "id": "E70B30B5-9D25-4443-8860-208F93B6A78B"
+    },
+    {
+      "class": "group",
+      "id": "685BC183-3BA3-4378-B0F2-516332AEE17D"
+    },
+    {
+      "class": "group",
+      "id": "503621B7-576A-4E17-BFE4-D548BE6E919F"
+    },
+    {
+      "class": "group",
+      "id": "2AD0AF59-55FB-4024-9989-B5DE5E3C5C41"
+    },
+    {
+      "class": "group",
+      "id": "49023A97-5732-4798-A040-5950C4A74356"
+    },
+    {
+      "class": "group",
+      "id": "BEDD13F0-3AEF-4F14-8B76-9FA471565CBA"
+    },
+    {
+      "class": "group",
+      "id": "CE4A11FB-F241-4841-BF66-66052421F41F"
+    }
+  ],
+  "name": "Color Palette",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

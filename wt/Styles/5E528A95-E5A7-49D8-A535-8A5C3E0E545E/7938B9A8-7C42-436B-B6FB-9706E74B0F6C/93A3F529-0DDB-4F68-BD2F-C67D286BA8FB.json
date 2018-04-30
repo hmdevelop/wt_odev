@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT1BRU1OT1BRVVlbVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADV0V4YW1wbGXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4ANgBVXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMjkwMTk2MDc4NCAwLjI5MDE5NjA3ODQgMC4yOTAxOTYwNzg0ABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdU2Cjc4OTo7PCQ8Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0gACADCNALgAAAAAAANIsLT4/XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjPkAxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKQkNEXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkZJTKJHSIAPgBCiSkuAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJAAAAAAAAF8QEkF2ZW5pck5leHQtUmVndWxhctIsLVJTXxATTlNNdXRhYmxlRGljdGlvbmFyeaNSVDFcTlNEaWN0aW9uYXJ50iwtVldfEBBOU0ZvbnREZXNjcmlwdG9yolgxXxAQTlNGb250RGVzY3JpcHRvctIsLVRaolQx0iwtXF1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXjFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYWJUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAiQCQAJgAowCnAKkAqwCtALEAswC1ALcAuQDBANQA9gD/AQUBEgEnAVEBUwFVAVcBXAFhAWMBZQFqAXUBfgGLAY4BmwGkAakBsQG0Ab8BygHcAf4CEAISAhQCHQIiAjwCQAJTAlgCdQJ3AnkCgAKDAoUChwKKAowCjgKQAqYCvALFAtoC3wL1AvkDBgMLAx4DIQM0AzkDPANBA1YDWQNuA4ADgwOIAAAAAAAAAgEAAAAAAAAAYwAAAAAAAAAAAAAAAAAAA4o="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "93A3F529-0DDB-4F68-BD2F-C67D286BA8FB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 800,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{0, 3}, {39, 11}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "1B2E3E61-3BD9-4415-8312-23B42CCF8686"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#4A4A4A",
+        "fontPostscriptName": "AvenirNext-Regular",
+        "fontSize": 10,
+        "lineHeight": 15,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus vulputate diam eu pretium. Mauris elit orci, ultricies id fermentum vel, porta et eros. Vestibulum condimentum lectus in convallis feugiat. Sed vulputate fringilla felis. Aliquam ut arcu et dui feugiat scelerisque eu quis diam. Mauris placerat congue dui sit amet blandit. Phasellus condimentum libero vel velit auctor, sit amet tincidunt velit varius.\nMauris lacinia porta faucibus. Fusce eu est ac eros vulputate mollis in ac felis. Aenean commodo scelerisque mi sed imperdiet. Donec at hendrerit nisi, eget vestibulum nisi. Sed sit amet magna luctus, facilisis erat quis, sagittis ligula. Aenean dignissim velit quis leo consequat ultricies. Proin quis pretium justo. Vestibulum at eros nisl. Fusce lobortis erat ante, eu cursus sapien molestie at. Pellentesque placerat ante diam, et euismod lacus dictum vel. Phasellus vitae sollicitudin mi.\nIn pulvinar eleifend convallis. Suspendisse elit erat, venenatis eget ullamcorper ut, laoreet iaculis nisl. Sed porta, felis id rhoncus aliquet, quam ipsum pellentesque metus, in sodales quam nunc vitae risus. Quisque in venenatis massa. Phasellus neque risus, ornare quis nisl ultricies, ullamcorper consectetur orci. Suspendisse rhoncus orci odio, id faucibus ipsum tincidunt nec. Ut eget ante sit amet justo volutpat convallis vitae et augue. Phasellus sagittis cursus fermentum. Curabitur tincidunt leo at convallis sodales. Proin posuere tempus iaculis. Cras non risus hendrerit, tempor diam in, congue nulla. Proin eu erat varius, luctus mauris sed, fermentum sem. Donec non sollicitudin diam, vel viverra tortor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultricies porta orci, nec consectetur ipsum facilisis in.\nSed a consequat lacus. Sed quis tincidunt nisl. Pellentesque vehicula libero sit amet sem aliquam adipiscing. Praesent commodo faucibus vulputate. Aliquam aliquam dictum arcu id interdum. Aenean non mauris turpis. Vestibulum at mauris quis felis tempor dictum. Nullam iaculis metus at ullamcorper volutpat. Donec nec justo ac erat mattis pulvinar. In luctus non ligula id elementum. Cras viverra sit amet risus eget feugiat. Fusce pulvinar risus sit amet gravida lobortis. Praesent metus eros, vestibulum sed bibendum eu, pharetra et lorem. Sed eu nisl et nisi mollis semper."
+      }
+    }
+  }
+}

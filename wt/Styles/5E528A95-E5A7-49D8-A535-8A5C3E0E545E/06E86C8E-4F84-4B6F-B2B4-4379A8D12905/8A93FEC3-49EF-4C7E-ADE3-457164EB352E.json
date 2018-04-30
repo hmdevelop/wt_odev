@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT1BRU1OT1BRVVlbVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADV0V4YW1wbGXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4ANgBVXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMjkwMTk2MDc4NCAwLjI5MDE5NjA3ODQgMC4yOTAxOTYwNzg0ABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdU2Cjc4OTo7PCQ8Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0gACADCNAOgAAAAAAANIsLT4/XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjPkAxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKQkNEXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkZJTKJHSIAPgBCiSkuAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF8QEkF2ZW5pck5leHQtUmVndWxhctIsLVJTXxATTlNNdXRhYmxlRGljdGlvbmFyeaNSVDFcTlNEaWN0aW9uYXJ50iwtVldfEBBOU0ZvbnREZXNjcmlwdG9yolgxXxAQTlNGb250RGVzY3JpcHRvctIsLVRaolQx0iwtXF1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXjFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYWJUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAiQCQAJgAowCnAKkAqwCtALEAswC1ALcAuQDBANQA9gD/AQUBEgEnAVEBUwFVAVcBXAFhAWMBZQFqAXUBfgGLAY4BmwGkAakBsQG0Ab8BygHcAf4CEAISAhQCHQIiAjwCQAJTAlgCdQJ3AnkCgAKDAoUChwKKAowCjgKQAqYCvALFAtoC3wL1AvkDBgMLAx4DIQM0AzkDPANBA1YDWQNuA4ADgwOIAAAAAAAAAgEAAAAAAAAAYwAAAAAAAAAAAAAAAAAAA4o="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8A93FEC3-49EF-4C7E-ADE3-457164EB352E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 800,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{1, 5}, {70, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E03DCD01-750A-4A22-9EB2-D73CF99A4CC3"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#4A4A4A",
+        "fontPostscriptName": "AvenirNext-Regular",
+        "fontSize": 18,
+        "lineHeight": 26,
+        "text": "This an introduction text. It has a fixed size, and a custom line height, so you can experiment with it. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dapibus vulputate diam eu pretium."
+      }
+    }
+  }
+}
