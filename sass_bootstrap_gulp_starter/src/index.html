@@ -14,6 +14,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
+
+
    </head>
    
    <body>
@@ -48,30 +50,13 @@
                         </div>
                       </nav>
 
-         <div ng-view></div>
-         
       
+         
+                      <div ng-view></div>
      
       </div>
      
 
-
-
-      <div class="container">
-        <div class="bg-primary  ">.bg-primary</div>
-        <div class="p-3 mb-2 bg-secondary text-white">.bg-secondary</div>
-        <div class="p-3 mb-2 bg-success text-white">.bg-success</div>
-        <div class="p-3 mb-2 bg-danger text-white">.bg-danger</div>
-        <div class="p-3 mb-2 bg-warning text-dark">.bg-warning</div>
-        <div class="p-3 mb-2 bg-info text-white">.bg-info</div>
-        <div class="p-3 mb-2 bg-light text-dark">.bg-light</div>
-        <div class="p-3 mb-2 bg-dark text-white">.bg-dark</div>
-        <div class="p-3 mb-2 bg-white text-dark">.bg-white</div>
-
-        <button class="btn  bg-danger "> aasd</button>
-        <div class="test">  test </div>
-    </div>
-    
    
 
 
@@ -97,5 +82,28 @@
   
           </div>
       
+
+
+<script>
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var navbar = document.getElementById("navbar");
+
+// Get the offset position of the navbar
+var sticky = navbar.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+
+
+</script>
+
    </body>
 </html>

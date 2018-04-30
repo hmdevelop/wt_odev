@@ -37,6 +37,11 @@ mainApp.config(['$routeProvider', function($routeProvider) {
     controller: 'AnasayfaController'
  }).
 
+ when('/home1', {
+    templateUrl: 'home1.htm',
+    controller: 'home1Controller'
+ }).
+
    otherwise({
       redirectTo: '/Anasayfa'
    });
@@ -65,6 +70,11 @@ mainApp.controller('GirisController', function($scope) {
 mainApp.controller('HaberekleController', function($scope) {
     $scope.message = "Haberekle mesaji";
 });
+
 mainApp.controller('AnasayfaController', function($scope) {
     $scope.message = "Anasayfa mesaji";
+});
+
+mainApp.controller('home1Controller', function($scope) {
+    $scope.message = "home1 mesaji";
 });
