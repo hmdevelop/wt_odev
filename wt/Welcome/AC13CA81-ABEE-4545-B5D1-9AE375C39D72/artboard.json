@@ -49,8 +49,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0D2AD2B6-F758-461D-8D93-75DB511BC38E"
+      "class": "symbolInstance",
+      "id": "DB4A2D86-994F-44DA-A6F1-3484A2E58BF1"
     },
     {
       "class": "bitmap",
@@ -65,8 +65,8 @@
       "id": "CF4F1F9D-1FEF-46AA-A201-E239F6A3AEFD"
     },
     {
-      "class": "group",
-      "id": "0D72A70B-7D2E-4488-860A-743485E7816E"
+      "class": "symbolInstance",
+      "id": "5E428B58-232C-4868-9089-4E4D462BE4D3"
     },
     {
       "class": "bitmap",
@@ -92,8 +92,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "home1",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
