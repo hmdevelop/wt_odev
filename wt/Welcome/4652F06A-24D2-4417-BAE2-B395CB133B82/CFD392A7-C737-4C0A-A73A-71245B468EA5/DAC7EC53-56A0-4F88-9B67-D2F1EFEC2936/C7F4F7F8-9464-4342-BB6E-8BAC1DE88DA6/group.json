@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "C70C52FC-F87E-4889-A46A-85AA09415E19",
+  "do_objectID": "C7F4F7F8-9464-4342-BB6E-8BAC1DE88DA6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 180,
-    "x": 28,
-    "y": 169
+    "height": 19,
+    "width": 105,
+    "x": 387.2224231464743,
+    "y": 189.6937172774867
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,15 +27,15 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8E1B4EA9-D32B-42BA-8C56-6A7F0D07E12F"
+      "id": "E2B97618-1C94-45CC-89FC-EBCA41E445B7"
     },
     {
       "class": "text",
-      "id": "B7F4EB8C-C45A-4780-AFEC-4C3E06ECC8F0"
+      "id": "159469E6-E838-44FD-8D47-E15EFCC2DC08"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "gonder",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 23,
     "width": 38,
-    "x": 611,
-    "y": 488
+    "x": 620,
+    "y": 365
   },
   "glyphBounds": "{{1, 4}, {37, 16}}",
   "heightIsClipped": false,
@@ -61,5 +61,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

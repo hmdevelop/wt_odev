@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "DE09F4C4-4BE0-42FD-8CFB-4A8E6117FE71",
+  "do_objectID": "0BE2A836-A784-4DF4-B65B-D5B59E694362",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36.00000000000002,
-    "width": 180,
-    "x": 0,
-    "y": 0
+    "height": 27.68062827225145,
+    "width": 233.6853526220619,
+    "x": 257.8264014466551,
+    "y": 137.5890052356019
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,17 +29,17 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "26AA541E-7872-4F25-B113-FB433DE02B03"
+      "id": "2349E14A-E092-426C-A1A4-3A65A3A3C5BC"
     }
   ],
-  "name": "Rectangle 4",
+  "name": "Rectangle 3 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "F0BDFD41-1A86-4E4F-A41B-BB8868892B12"
+    "sharedObjectID": "B1A17AB5-0ACA-41C6-A0E2-288FA37EFE13"
   },
   "windingRule": 1
 }

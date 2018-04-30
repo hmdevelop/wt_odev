@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 669,
-    "width": 882,
+    "height": 433,
+    "width": 684,
     "x": 0,
     "y": 0
   },
@@ -39,7 +39,29 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "9A046DA3-644C-499D-9C8E-F18CB61CFD5E"
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 1,
+          "green": 0.7098039215686274,
+          "red": 0.2980392156862746
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "9A046DA3-644C-499D-9C8E-F18CB61CFD5E",
+    "startDecorationType": 0
   },
   "windingRule": 1
 }
