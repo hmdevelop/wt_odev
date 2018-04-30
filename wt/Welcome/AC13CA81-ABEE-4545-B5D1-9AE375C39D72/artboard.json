@@ -32,8 +32,8 @@
     "isEnabled": false,
     "thickGridTimes": 10
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

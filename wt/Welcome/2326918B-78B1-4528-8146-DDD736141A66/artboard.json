@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1114,
     "width": 1440,
-    "x": 9179,
+    "x": 11222,
     "y": 186
   },
   "grid": {
@@ -31,7 +31,7 @@
     "isEnabled": false,
     "thickGridTimes": 10
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -45,7 +45,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

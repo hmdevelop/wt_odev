@@ -69,6 +69,10 @@
     },
     {
       "class": "artboard",
+      "id": "30DCC596-A699-4498-9451-04BB4E263EAB"
+    },
+    {
+      "class": "artboard",
       "id": "BD0D819A-9B61-4C75-B049-664296A997D9"
     },
     {
@@ -94,6 +98,10 @@
     {
       "class": "artboard",
       "id": "9695DDE7-6661-475D-9FB5-D27D5CCF6240"
+    },
+    {
+      "class": "artboard",
+      "id": "3FF52E69-1069-4A03-84D4-1F500F5C5585"
     }
   ],
   "name": "Welcome",
