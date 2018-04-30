@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "1BB50864-03B7-4D85-8F50-F54006952B87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 127,
+    "x": 1029,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9388742A-3FB1-4718-B4C8-B90D45DDCD09"
+    },
+    {
+      "class": "text",
+      "id": "FA58766C-80AD-422C-A5F6-2DE4A8756A1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10C96D1B-C77B-432F-ABA1-F42291D14BA5"
+    },
+    {
+      "class": "text",
+      "id": "EC5B7877-469B-48A7-8562-211EEBB9260C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DD61CCB-2730-48FD-B800-B83F79E9639F"
+    },
+    {
+      "class": "text",
+      "id": "7E00F93A-B054-4BF9-84D8-DE0E9835840A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCA952B3-8C92-4A8C-B784-F62A3D1EAA90"
+    },
+    {
+      "class": "text",
+      "id": "59CA9426-BBD7-4722-9427-C6A96252FE28"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B5ECC5C-264E-488B-866C-E47AF38606A1"
+    },
+    {
+      "class": "text",
+      "id": "F8FB5758-E474-4883-859B-F6CDA7688D17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C65E8CC-9C5C-4217-8D40-8CCBA4340546"
+    },
+    {
+      "class": "text",
+      "id": "610FCDE4-2983-4F4D-B5BE-35EE93B87C94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0007A3E6-FB97-4598-A579-7A141D40EEBA"
+    }
+  ],
+  "name": "Information List",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

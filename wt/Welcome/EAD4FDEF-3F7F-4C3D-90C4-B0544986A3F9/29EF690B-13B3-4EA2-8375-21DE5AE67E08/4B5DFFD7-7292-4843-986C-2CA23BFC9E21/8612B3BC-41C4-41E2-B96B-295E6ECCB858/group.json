@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8612B3BC-41C4-41E2-B96B-295E6ECCB858",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 86,
+    "x": 1,
+    "y": 117
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8E4DE3A8-819F-466E-8568-66C42B45928D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8F496C4-4400-44DC-AE58-6A268CA6DD6A"
+    }
+  ],
+  "name": "Themeforest Tag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

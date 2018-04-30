@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "EC7C80FB-C769-41F0-8134-55E25149A367",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 258,
+    "width": 155,
+    "x": 1031,
+    "y": 112
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DB5EA8BD-A50D-4723-9831-AF6FFA36BDB4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "230F493C-7A20-4324-A5F8-5B2920DCB5BA"
+    },
+    {
+      "class": "text",
+      "id": "46FDEAAA-00D6-4F96-858B-BC0DCEBEA0DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C2EADC5-74E5-4C4A-A04C-085C2B105D1A"
+    },
+    {
+      "class": "text",
+      "id": "5C1ABFF2-F54F-4964-A4EA-26CFB44483D2"
+    }
+  ],
+  "name": "Google Plus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

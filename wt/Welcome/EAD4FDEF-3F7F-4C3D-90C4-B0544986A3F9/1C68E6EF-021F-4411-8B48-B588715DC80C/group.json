@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "1C68E6EF-021F-4411-8B48-B588715DC80C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 572,
+    "width": 1440,
+    "x": 0,
+    "y": 3483
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "80912D31-E40D-409D-BC61-618901752612"
+    },
+    {
+      "class": "bitmap",
+      "id": "8E4FA10C-EE85-467E-8FC8-5310CD3BB2CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "264A911C-7520-4F05-AC49-BB0C0FAFFA20"
+    },
+    {
+      "class": "group",
+      "id": "AA876F8C-1D94-405A-BA49-BC887B0776EF"
+    },
+    {
+      "class": "group",
+      "id": "001A2C74-09CA-4AE6-92A9-E802AEF38C16"
+    }
+  ],
+  "name": "Contact Section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

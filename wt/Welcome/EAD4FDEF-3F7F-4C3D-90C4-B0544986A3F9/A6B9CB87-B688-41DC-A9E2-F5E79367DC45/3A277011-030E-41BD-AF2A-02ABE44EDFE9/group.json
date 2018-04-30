@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "3A277011-030E-41BD-AF2A-02ABE44EDFE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 321,
+    "width": 262,
+    "x": 732,
+    "y": 232
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "37552809-0842-4306-9DEE-A53AB872FB36"
+    },
+    {
+      "class": "text",
+      "id": "D27E915E-55F4-47DF-BA0F-B40E053281BB"
+    },
+    {
+      "class": "text",
+      "id": "7A6E9BFC-6B29-4029-B877-F9EFB36552FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F86AF7F-F0DE-4EF0-8A8E-019B9C6275C9"
+    },
+    {
+      "class": "text",
+      "id": "FC0CDDF0-46EE-49D1-B908-FDBAB5B40424"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9784F3CF-6538-42F4-B35F-03EB182F54A1"
+    }
+  ],
+  "name": "Portfolio Item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

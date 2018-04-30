@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "15729020-F3FE-4230-9D40-62218B2ADDD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 77,
+    "x": 1,
+    "y": 57
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ED0F268C-DE3F-4292-A281-6DD288B966B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E253D16E-C25C-476E-B773-D0F67DD3021A"
+    }
+  ],
+  "name": "Flat Design Tag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

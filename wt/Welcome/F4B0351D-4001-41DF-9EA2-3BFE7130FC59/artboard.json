@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F4B0351D-4001-41DF-9EA2-3BFE7130FC59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1814,
+    "width": 1440,
+    "x": 5766,
+    "y": 186
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "A77BFFF9-4E8E-44C0-AC76-8C5515C42194"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1A78F8A-FC42-4555-91D3-EA4DCC8F6EA8"
+    },
+    {
+      "class": "text",
+      "id": "AB51A510-130B-49DA-AFA4-A1639F6F735C"
+    },
+    {
+      "class": "text",
+      "id": "60ABA4F7-C6D3-4272-89F5-FEAE2DE96720"
+    },
+    {
+      "class": "group",
+      "id": "911135CA-B8C8-42C5-87D7-7D6ACB176AAF"
+    },
+    {
+      "class": "group",
+      "id": "BD64471A-A788-4975-A4BF-449A119918CA"
+    },
+    {
+      "class": "group",
+      "id": "A88550B3-BEF6-4A98-9C02-28DAB13E2388"
+    },
+    {
+      "class": "group",
+      "id": "3C23AAAF-E9B1-44B8-A245-8D107910F1FE"
+    },
+    {
+      "class": "group",
+      "id": "ECC84AA1-78A1-46FD-A6C8-127C6FECCD04"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "hakkinda",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

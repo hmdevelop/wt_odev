@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "4B5DFFD7-7292-4843-986C-2CA23BFC9E21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 247,
+    "x": 736,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BE4658FE-A82D-4454-9AEC-A6A47686C83D"
+    },
+    {
+      "class": "group",
+      "id": "15729020-F3FE-4230-9D40-62218B2ADDD5"
+    },
+    {
+      "class": "group",
+      "id": "8612B3BC-41C4-41E2-B96B-295E6ECCB858"
+    },
+    {
+      "class": "group",
+      "id": "5B273EA9-F388-471E-825E-D19E2A97147A"
+    },
+    {
+      "class": "group",
+      "id": "8B039B23-F14E-4AF4-97D6-E0728ADE27EA"
+    },
+    {
+      "class": "group",
+      "id": "EADB500A-F436-4806-9749-AF1AEFB2D95D"
+    },
+    {
+      "class": "group",
+      "id": "2503D58B-31AD-4B26-9EA4-3403FB31C0C2"
+    },
+    {
+      "class": "group",
+      "id": "10395606-1D61-4D60-921E-37CB95539BB6"
+    },
+    {
+      "class": "group",
+      "id": "66586071-ED25-47BD-A58D-BDFC3C5C9B80"
+    },
+    {
+      "class": "group",
+      "id": "29D389BF-AA5C-4C6F-902D-E0B72F54AAB9"
+    },
+    {
+      "class": "group",
+      "id": "1CF1FA84-D394-4AD1-BFDC-7AC0F4B40B28"
+    },
+    {
+      "class": "group",
+      "id": "09BF0173-087C-4121-A5C2-3C3494E4FCE4"
+    },
+    {
+      "class": "group",
+      "id": "39D16532-5F10-4B0D-B6D0-FA7A012804BD"
+    },
+    {
+      "class": "group",
+      "id": "D075D340-334B-4B3A-BF74-F070128802FF"
+    },
+    {
+      "class": "group",
+      "id": "8E0FBFDA-910C-418F-9F91-3ABCDB1DDDE4"
+    },
+    {
+      "class": "group",
+      "id": "112A935E-97B1-4B96-A348-1ED15E3D2C26"
+    }
+  ],
+  "name": "Tags Widget",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

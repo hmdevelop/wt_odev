@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8E0FBFDA-910C-418F-9F91-3ABCDB1DDDE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 71,
+    "x": 176,
+    "y": 87
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "31A3BD7D-1A84-4ACF-8EDE-383B517F6227"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B32B610-7E0A-476E-A41D-167EE0923560"
+    }
+  ],
+  "name": "UI Design Tag",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

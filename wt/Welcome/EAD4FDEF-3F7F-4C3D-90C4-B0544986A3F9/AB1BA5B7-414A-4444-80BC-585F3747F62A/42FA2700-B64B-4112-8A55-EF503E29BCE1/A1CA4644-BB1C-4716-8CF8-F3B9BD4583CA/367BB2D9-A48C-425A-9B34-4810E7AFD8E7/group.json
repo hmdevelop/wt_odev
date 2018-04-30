@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "367BB2D9-A48C-425A-9B34-4810E7AFD8E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 56,
+    "x": 30,
+    "y": 177
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "21DCF3D5-5587-499A-82F4-EA87CEEFBE0C"
+    },
+    {
+      "class": "text",
+      "id": "5D50589E-F032-4A54-9EA2-C9AC484563A4"
+    }
+  ],
+  "name": "Blog Posted Date",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

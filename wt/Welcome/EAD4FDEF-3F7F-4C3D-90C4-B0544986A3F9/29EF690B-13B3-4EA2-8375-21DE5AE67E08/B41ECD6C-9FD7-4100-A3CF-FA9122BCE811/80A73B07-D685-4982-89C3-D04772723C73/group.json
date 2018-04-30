@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "80A73B07-D685-4982-89C3-D04772723C73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 100,
+    "x": 0,
+    "y": 186
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "50021D50-0678-4804-B39D-311ED744DB97"
+    },
+    {
+      "class": "text",
+      "id": "D01274BB-DA13-4BAF-9941-5631A00A96B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B139A961-8FB0-488B-ABEC-F5E44D85A52A"
+    }
+  ],
+  "name": "Archive Tag 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
