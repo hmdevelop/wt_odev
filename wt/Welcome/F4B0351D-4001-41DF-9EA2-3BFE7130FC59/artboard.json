@@ -48,12 +48,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "A77BFFF9-4E8E-44C0-AC76-8C5515C42194"
-    },
-    {
-      "class": "text",
-      "id": "60ABA4F7-C6D3-4272-89F5-FEAE2DE96720"
+      "class": "group",
+      "id": "6BD8271B-ABFD-4737-8A02-D9D503D01CDE"
     },
     {
       "class": "group",
