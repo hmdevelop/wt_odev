@@ -42,6 +42,16 @@ mainApp.config(['$routeProvider', function($routeProvider) {
     controller: 'home1Controller'
  }).
 
+ when('/home2', {
+    templateUrl: 'home2.htm',
+    controller: 'home2Controller'
+ }).
+
+ when('/home3', {
+    templateUrl: 'home3.htm',
+    controller: 'home3Controller'
+ }).
+
    otherwise({
       redirectTo: '/Anasayfa'
    });
@@ -77,4 +87,12 @@ mainApp.controller('AnasayfaController', function($scope) {
 
 mainApp.controller('home1Controller', function($scope) {
     $scope.message = "home1 mesaji";
+});
+
+mainApp.controller('home2Controller', function($scope) {
+    $scope.message = "home2 mesaji";
+});
+
+mainApp.controller('home3Controller', function($scope) {
+    $scope.message = "home3 mesaji";
 });
