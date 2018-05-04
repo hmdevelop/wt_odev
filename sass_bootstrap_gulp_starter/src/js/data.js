@@ -1,0 +1,1 @@
+var haberler = ["haber1","haber2","haber3","haber4","haber5"];

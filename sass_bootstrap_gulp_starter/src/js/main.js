@@ -88,6 +88,8 @@ mainApp.controller('HakkindaController', function($scope) {
 
 mainApp.controller('HaberlerController', function($scope) {
     $scope.message = "Haberler mesaji";
+    $scope.haber1 = haberler[0];
+
 });
 
 mainApp.controller('TarihController', function($scope) {
