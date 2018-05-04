@@ -89,7 +89,8 @@ mainApp.controller('HakkindaController', function($scope) {
 mainApp.controller('HaberlerController', function($scope) {
     $scope.message = "Haberler mesaji";
     $scope.haber1 = haberler[0];
-
+    $scope.title = news[0].baslik;
+    $scope.body = news[0].body;
 });
 
 mainApp.controller('TarihController', function($scope) {
