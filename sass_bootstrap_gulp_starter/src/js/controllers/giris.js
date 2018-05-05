@@ -1,23 +1,37 @@
-mainApp.controller('GirisController', function($scope) {
+mainApp.controller('GirisController', function($scope,$rootScope) {
     $scope.message = "Giris mesaji";
+    $rootScope.name = 'AngularJS';
+ 
+      
 
-    $scope.login =   function (  ){
+        $scope.giris =   function (){
 
-        window.alert($scope.kullaniciadi);
-        var t_users =$rootscope.users; 
-        for(var i=0 ; i<t_users.length ; i++){
-            console.log(i);
+            $scope.users = users;
+           
+                
+            for(var i=0 ;i< users.length;i++){
+           
+                var t_user = $scope.kullaniciadi;
+                var t_pass = $scope.sifre;
+             
+                if(t_user.localeCompare($scope.users[i].username) == 0 && t_pass.localeCompare($scope.users[i].pass) == 0){
 
+                    console.log("girildi");
+                    $rootScope.login = true;
+                }
+
+            }
+            if($rootScope.login == false){
+                window.alert("Hatalı Kullanıcıadı veya Şifre");
+            }
+
+
+           
+
+    
+                window.location.href = 'http://localhost:3000/#/Haberler';
         }
 
-
-      /*   var t_new = {baslik: $scope.t_baslik , body: $scope.t_body};
-
-         $scope.news = news;
-        var t_news = $scope.news;
-                t_news.push(t_new);
-            window.location.href = 'http://localhost:3000/#/Haberler'; */ 
-    }
 
 
 });

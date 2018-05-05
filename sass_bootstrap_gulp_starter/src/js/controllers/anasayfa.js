@@ -1,5 +1,4 @@
-mainApp.controller('AnasayfaController', function($scope) {
+mainApp.controller('AnasayfaController', function($scope,$rootScope) {
     $scope.message = "Anasayfa mesaji";
-    $rootscope.users = users;
-    $rootscope.loginuser = false;
+    
 });

@@ -1,4 +1,6 @@
 var mainApp = angular.module("mainApp", ['ngRoute']);
+
+
 mainApp.config(['$routeProvider', function($routeProvider) {
    $routeProvider.
    
@@ -47,6 +49,11 @@ mainApp.config(['$routeProvider', function($routeProvider) {
     templateUrl: 'Giris.htm',
     controller: 'GirisController'
  }).
+
+ when('/Cikis', {
+  templateUrl: 'Cikis.htm',
+  controller: 'CikisController'
+}).
 
  when('/haberekle', {
     templateUrl: 'haberekle.htm',
