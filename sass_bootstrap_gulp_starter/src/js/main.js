@@ -48,8 +48,8 @@ mainApp.config(['$routeProvider', function($routeProvider) {
     controller: 'GirisController'
  }).
 
- when('/Haberekle', {
-    templateUrl: 'Haberekle.htm',
+ when('/haberekle', {
+    templateUrl: 'haberekle.htm',
     controller: 'HaberekleController'
  }).
 
