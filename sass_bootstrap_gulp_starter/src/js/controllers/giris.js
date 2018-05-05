@@ -34,4 +34,18 @@ mainApp.controller('GirisController', function($scope,$rootScope) {
 
 
 
+        $scope.cikis =   function (){
+ 
+
+           
+            $rootScope.login =  false ;
+           
+            console.log("çikildi");
+    
+                window.location.href = 'http://localhost:3000/#/Haberler';
+        }
+
+
+
+
 });
