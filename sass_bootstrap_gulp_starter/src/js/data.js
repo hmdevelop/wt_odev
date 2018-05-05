@@ -6,6 +6,16 @@ var news = [
     {baslik:"Futbol: UEFA 19 Yaş Altı Avrupa Şampiyonası" , body:"Finlandiya'da 16-29 Temmuz tarihleri arasında gerçekleştirilecek finallerin kura çekimi de 30 Mayıs Çarşamba günü ev sahibi ülkenin Vaasa şehrinde gerçekleştirilecek."},
     {baslik:"Flakka nedir? Zombiye çeviren uyuşturucu Flakka hakkında bilinmeyenler" , body:"Flakka bağımlılarının videoları sosyal medyada büyük yankı uyandırmıştı. El yapımı olan bu uyuşturucu kokaine benzer bir etki gösterir. Fakat 2012 yılında Amerika’da yasaklanan sentetik uyuşturucu olan “banyo tuzları” gibi flakka da kokainden çok daha tehlikeli olma potansiyeline sahiptir. Florida’daki Nova Southeastern Üniversitesi’nde epidemiyolojist olan Jim Hall, flakkanın dozunu kontrol etmenin zor olduğunu ve ne kadar fazla tüketilirse o kadar ölümcül olabileceğini belirtmişti. Bu açıklama flakkanın ne kadar tehlikeli bir madde olduğunun anlaşılmasını sağlıyor."},
 
+] ;
 
+
+var users = [
+
+    {username:"mustafa",pass:"1234"},
+    {username:"user",pass:"pass"},
+    {username:"test",pass:"test"}
 
 ]
+
+
+
