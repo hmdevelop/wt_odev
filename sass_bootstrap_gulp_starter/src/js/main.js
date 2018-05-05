@@ -74,70 +74,33 @@ mainApp.config(['$routeProvider', function($routeProvider) {
  }).
 
 
-
-
-
    otherwise({
       redirectTo: '/Anasayfa'
    });
 }]);
 
-mainApp.controller('HakkindaController', function($scope) {
-   $scope.message = "Hakkinda mesaji";
-});
-
-mainApp.controller('HaberlerController', function($scope) {
-    $scope.message = "Haberler mesaji";
-    $scope.haber1 = haberler[0];
-    $scope.title = news[0].baslik;
-    $scope.body = news[0].body;
-});
-
-mainApp.controller('TarihController', function($scope) {
-    $scope.message = "Tarih mesaji";
-});
-
-mainApp.controller('BizeUlasinController', function($scope) {
-    $scope.message = "BizeUlasin mesaji";
-});
-
-mainApp.controller('GirisController', function($scope) {
-    $scope.message = "Giris mesaji";
-});
-
-mainApp.controller('HaberekleController', function($scope) {
-    $scope.message = "Haberekle mesaji";
-});
-
-mainApp.controller('AnasayfaController', function($scope) {
-    $scope.message = "Anasayfa mesaji";
-});
-
-mainApp.controller('home1Controller', function($scope) {
-    $scope.message = "home1 mesaji";
-});
-
-mainApp.controller('home2Controller', function($scope) {
-    $scope.message = "home2 mesaji";
-});
-
-mainApp.controller('home3Controller', function($scope) {
-    $scope.message = "home3 mesaji";
-});
-
-mainApp.controller('Hakkinda1Controller', function($scope) {
-    $scope.message = "Hakkinda1 mesaji";
- });
 
 
- mainApp.controller('Hakkinda2Controller', function($scope) {
-    $scope.message = "Hakkinda2 mesaji";
- });
 
- mainApp.controller('Hakkinda3Controller', function($scope) {
-    $scope.message = "Hakkinda3 mesaji";
- });
 
- mainApp.controller('Hakkinda4Controller', function($scope) {
-    $scope.message = "Hakkinda4 mesaji";
- });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
