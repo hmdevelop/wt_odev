@@ -86,6 +86,11 @@ mainApp.config(['$routeProvider', function($routeProvider ) {
     controller: 'home3Controller'
  }).
 
+ when('/home4', {
+  templateUrl: 'home4.htm',
+  controller: 'home4Controller'
+}).
+
  when('/admin', {
   templateUrl: 'admin.htm',
   controller: 'adminController'
