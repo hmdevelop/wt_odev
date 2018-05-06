@@ -3,20 +3,25 @@ mainApp.controller('HaberEditController', function($scope , $rootScope) {
 
 
  $scope.news = news;
+
+if($rootScope.selectForEditIndex==undefined){
+    $rootScope.selectForEditIndex = 0;
+}
+
  var t_new = news[$rootScope.selectForEditIndex];
-
-
+ 
+    console.log(t_new['baslik']);
 
  $scope.eBaslik = t_new['baslik'];
  $scope.eBody = t_new['body'];
 
 
-    $scope.haberekle =   function (){
+    $scope.habersave =   function (){
 
         if( $rootScope.login == false){
             window.alert("Lütfen Giriş Yapın");
         }else{
-            var t_new = {baslik: $scope.t_baslik , body: $scope.t_body};
+            var t_new = {baslik: $scope.eBaslik , body: $scope.eBody};
 
             $scope.news = news;
            var t_news = $scope.news;
