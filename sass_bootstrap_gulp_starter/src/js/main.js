@@ -1,7 +1,7 @@
 var mainApp = angular.module("mainApp", ['ngRoute']);
 
 
-mainApp.config(['$routeProvider', function($routeProvider) {
+mainApp.config(['$routeProvider', function($routeProvider ) {
    $routeProvider.
    
    when('/Hakkinda', {
@@ -84,6 +84,8 @@ mainApp.config(['$routeProvider', function($routeProvider) {
    otherwise({
       redirectTo: '/Anasayfa'
    });
+
+
 }]);
 
 

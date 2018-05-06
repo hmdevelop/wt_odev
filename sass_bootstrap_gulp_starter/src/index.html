@@ -61,6 +61,11 @@
                                     <li><a href = "#Haberler"> Haberler</a></li>
                                     <li><a href = "#Tarih"> Tarih</a></li>
                                     <li><a href = "#BizeUlasin"> Bize Ulasin</a></li>
+
+                                    <li>   <a href="#Admin"> <div class="check-element animate-show-hide" ng-hide="checked">
+                        Admin
+                      </div>  </a></li>
+                                     
                             </ul>
                             <ul class="nav navbar-nav navbar-right">
                              
@@ -71,7 +76,12 @@
                         </div>
                       </nav>
 
-      
+                     
+                   
+                      Hide: <input type="checkbox" ng-model="checked" aria-label="Toggle ngHide"><br />
+
+
+                    
          
                       <div ng-view></div>
      
@@ -86,26 +96,24 @@
           <div class="container-fluid">
             <div class="row">
                 <div class="col-xs-3">
-                   copyright Mustafa topal
+                   copyright Mustafa Topal
                 </div>
                 <div class="col-xs-3">
-                    twitter
+                    <i class="fa fa-twitter-square" style="font-size:36px"></i>
                 </div>
                 <div class="col-xs-3">
-                        facebook    
+                         <i class="fa fa-facebook-square" style="font-size:36px"></i>  
                  </div>
                 <div class="col-xs-3">
-                            google
+                           <i class="fa fa-google-plus-square" style="font-size:36px"></i>
                  </div>
             </div>
 
           </div>
   
           </div>
-      
-
-
-
+       
+        
 
    </body>
 </html>
