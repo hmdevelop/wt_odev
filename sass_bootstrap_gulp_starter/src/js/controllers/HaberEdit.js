@@ -16,6 +16,10 @@ if($rootScope.selectForEditIndex==undefined){
  $scope.eBody = t_new['body'];
 
 
+
+
+
+
     $scope.habersave =   function (){
 
         if( $rootScope.login == false){
@@ -26,8 +30,11 @@ if($rootScope.selectForEditIndex==undefined){
             $scope.news = news;
            var t_news = $scope.news;
                    t_news.push(t_new);
+                   t_news.splice($scope.selectForEditIndex, 1);
                window.location.href = 'http://localhost:3000/#/Haberler';
         }
+         
+      
 
        
     }
