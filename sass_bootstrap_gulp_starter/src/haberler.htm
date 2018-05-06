@@ -34,8 +34,8 @@
                                            
                                             <br><br><br>
                                           
-                                            <button  ng-click="habersil($index)" class="btn btn-danger" style="float: right;">sil</button>   
-                                            <button  ng-click="haberduzenle($index)" class="btn btn-warning" style="float: right;">duzenle</button>   
+                                            <button  ng-show="admin"  ng-click="habersil($index)" class="btn btn-danger" style="float: right;">sil</button>   
+                                            <button  ng-show="admin"  ng-click="haberduzenle($index)" class="btn btn-warning" style="float: right;">duzenle</button>   
                                             <h3>{{new.baslik}}</h3>
 
                 
@@ -45,7 +45,7 @@
 
                             </div>
 
-                         <a href="#haberekle"> <span style="float:right"> <i class="fa fa-plus-circle add-btn" style="font-size:45px"></i> </span>   </a> 
+                         <a  ng-show="logout"   href="#haberekle"> <span style="float:right"> <i class="fa fa-plus-circle add-btn" style="font-size:45px"></i> </span>   </a> 
                      
                             
 
