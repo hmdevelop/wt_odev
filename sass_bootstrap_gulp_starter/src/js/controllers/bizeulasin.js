@@ -1,3 +1,3 @@
-mainApp.controller('BizeUlasinController', function($scope) {
+mainApp.controller('BizeUlasinController', function($scope,$rootScope) {
     $scope.message = "BizeUlasin mesaji";
 });

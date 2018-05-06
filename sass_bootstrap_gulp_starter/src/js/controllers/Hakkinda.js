@@ -1,3 +1,3 @@
-mainApp.controller('HakkindaController', function($scope) {
+mainApp.controller('HakkindaController', function($scope,$rootScope) {
     $scope.message = "Hakkinda mesaji";
  });
