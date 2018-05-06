@@ -19,6 +19,11 @@ mainApp.controller('GirisController', function($scope,$rootScope) {
                    
                     console.log("girildi");
                     $rootScope.login = true;
+                    $rootScope.logedin = true;
+                    $rootScope.logout = true;
+                    $rootScope.userl = true;
+                    $rootScope.myuser = t_user;
+                   
                     if(t_user.localeCompare("admin") == 0 && t_pass.localeCompare("admin") == 0){
                         $rootScope.admin = true;
                     }
@@ -46,7 +51,10 @@ mainApp.controller('GirisController', function($scope,$rootScope) {
 
            
             $rootScope.login =  false ;
-           
+            $rootScope.logedin = false;
+            $rootScope.logout = false;
+            $rootScope.admin = false;
+            $rootScope.userl = false;
             console.log("çikildi");
     
                 window.location.href = 'http://localhost:3000/#/Haberler';

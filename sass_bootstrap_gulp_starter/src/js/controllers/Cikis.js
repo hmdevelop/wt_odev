@@ -9,6 +9,9 @@ mainApp.controller('CikisController', function($scope,$rootScope) {
 
            
             $rootScope.login =  false ;
+            $rootScope.logedin =  false ;
+            
+            $rootScope.logout =  true ;
            
             console.log("çikildi");
     

@@ -8,7 +8,8 @@
   
             <br><br>
 
-          <div class=" my-form-label text-center">  Giriş Yapın  </div>
+          <div ng-hide="logedin" class=" my-form-label text-center">  Giriş Yapın  </div>
+          <div ng-show="logout" class=" my-form-label text-center">  Cikis Yapın  </div>
           <br><br>
 
 
@@ -16,17 +17,19 @@
                   <br><br>
             
                  
-                 <label for="isim"></label> <input  placeholder="Kullanici Adi"  ng-model = "kullaniciadi" class="input-custom"  type="text" id="isim">
+                 <label for="isim"></label> <input ng-hide="logedin" placeholder="Kullanici Adi"  ng-model = "kullaniciadi" class="input-custom"  type="text" id="isim">
 
                  <br><br>
-              <label for="eposta"></label>  <input placeholder=" Sifre" ng-model = "sifre" class="input-custom" type="password" id="eposta">
+              <label for="eposta"></label>  <input ng-hide="logedin" placeholder=" Sifre" ng-model = "sifre" class="input-custom" type="password" id="eposta">
               <br> <br>
                 
-                 <a href="#clearpass"> Şifremi unuttum   </a> 
+                 <a  ng-hide="logedin" href="#clearpass"> Şifremi unuttum   </a> 
                  <br><br>
-               <button  class="btn btn-custom" ng-click="giris()" > Giriş</button>
+               <button  ng-hide="logedin" class="btn btn-custom" ng-click="giris()" > Giriş</button>
 
-               <button  class="btn btn-custom" ng-click="cikis()" > Çıkış</button>
+               <p ng-show="userl"   > {{myuser}} isimli kullanici icin  </p>
+
+               <button ng-show="logout" class="btn btn-custom" ng-click="cikis()" > Çıkış</button>
         </div>
 
     
