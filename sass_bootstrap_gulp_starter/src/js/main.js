@@ -86,6 +86,11 @@ mainApp.config(['$routeProvider', function($routeProvider ) {
     controller: 'home3Controller'
  }).
 
+ when('/admin', {
+  templateUrl: 'admin.htm',
+  controller: 'adminController'
+}).
+
 
    otherwise({
       redirectTo: '/Anasayfa'

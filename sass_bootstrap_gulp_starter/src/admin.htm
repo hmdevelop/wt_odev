@@ -22,30 +22,29 @@
       <div class="container" >
             <div class="row">
                     <div class=" col-xl-8 col-lg-8 col-md-8 col-sm-8 col-centered  ">  
-                            <img src="img/news.jpg" alt="" srcset="">  </div>
-                    
+                         
+                        <h1>Admin Paneli Kullanici Yorumlari</h1>
 
+                        <br><br>
 
-                            <div ng-repeat="new in news" >
+                            <div ng-repeat="post in posts" >
                                     
                                     <div class=" col-xl-8 col-lg-8 col-md-8 col-sm-8 col-centered  ">
 
 
-                                           
-                                            <br><br><br>
                                           
-                                            <button  ng-click="habersil($index)" class="btn btn-danger" style="float: right;">sil</button>   
-                                            <button  ng-click="haberduzenle($index)" class="btn btn-warning" style="float: right;">duzenle</button>   
-                                            <h3>{{new.baslik}}</h3>
+                                        
+                                            <h3>Gonderen: {{post.name}}</h3>
 
                 
-                                            <p> {{new.body}}   </p>
+                                            <p> E-posta :  {{post.email}}   </p>
+                                            <p> Gonderi: {{post.mesaj}}   </p>
                                         </div>
                                       
 
                             </div>
 
-                         <a href="#haberekle"> <span style="float:right"> <i class="fa fa-plus-circle add-btn" style="font-size:45px"></i> </span>   </a> 
+    
                      
                             
 

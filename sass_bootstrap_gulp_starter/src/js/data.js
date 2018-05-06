@@ -15,6 +15,12 @@ var users = [
     {username:"user",pass:"pass"},
     {username:"test",pass:"test"},
     {username:"admin",pass:"admin"}
+];
+
+var gonderiler = [
+
+    {name:"mustafa topal",email:"mustafatopal@gmail.com" ,mesaj:"Finlandiya cok guzel "},
+    {name:"mehmet kara",email:"mehmetkara@gmail.com" ,mesaj:"Finlandiya harikaa "}
 ]
 
 
