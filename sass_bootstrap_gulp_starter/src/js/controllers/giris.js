@@ -1,6 +1,6 @@
 mainApp.controller('GirisController', function($scope,$rootScope) {
     $scope.message = "Giris mesaji";
-    $rootScope.name = 'AngularJS';
+    
  
       
 
