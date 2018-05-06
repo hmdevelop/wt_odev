@@ -13,8 +13,8 @@ var users = [
 
     {username:"mustafa",pass:"1234"},
     {username:"user",pass:"pass"},
-    {username:"test",pass:"test"}
-
+    {username:"test",pass:"test"},
+    {username:"admin",pass:"admin"}
 ]
 
 

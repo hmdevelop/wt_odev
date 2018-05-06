@@ -16,11 +16,11 @@
                   <br><br>
             
                  
-                 <label for="isim">Başlık</label> <input  ng-model = "t_baslik" class="input-custom"  type="text" id="isim">
+                 <label for="isim"></label> <input  required placeholder="Baslik" ng-model = "t_baslik" class="input-custom"  type="text" id="isim">
 
                  <br><br>
             
-              <label for="mesaj">Haber</label>   <textarea ng-model = "t_body"  class="input-custom" id="mesaj" rows="4" cols="20"> </textarea> 
+              <label for="mesaj"></label>   <textarea  required placeholder="Haber" ng-model = "t_body"  class="input-custom" id="mesaj" rows="4" cols="20"> </textarea> 
                <br><br>
                <button class="btn btn-custom" ng-click="haberekle()"> Gönder</button>
 

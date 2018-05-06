@@ -16,9 +16,15 @@ mainApp.controller('GirisController', function($scope,$rootScope) {
              
                 if(t_user.localeCompare($scope.users[i].username) == 0 && t_pass.localeCompare($scope.users[i].pass) == 0){
 
-                    $rootScope.admin = false;
+                   
                     console.log("girildi");
                     $rootScope.login = true;
+                    if(t_user.localeCompare("admin") == 0 && t_pass.localeCompare("admin") == 0){
+                        $rootScope.admin = true;
+                    }
+
+
+
                 }
 
             }

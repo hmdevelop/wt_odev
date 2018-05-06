@@ -89,10 +89,6 @@ mainApp.config(['$routeProvider', function($routeProvider ) {
 }]);
 
 
-mainApp.run(['$rootScope', function($rootScope) {
-  $rootScope.admin =true;
-}])
-
 
 
 
