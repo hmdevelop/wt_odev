@@ -32,18 +32,17 @@ $scope.habersil =   function ($index){
 //
 
 
-$scope.haberduzenle =   function (){
+$scope.haberduzenle =   function ($index){
 
-    if( $rootScope.login == false){
-        window.alert("Lütfen Giriş Yapın");
-    }else{
-        var t_new = {baslik: $scope.t_baslik , body: $scope.t_body};
+  
+   
 
-        $scope.news = news;
-       var t_news = $scope.news;
-               t_news.push(t_new);
-           window.location.href = 'http://localhost:3000/#/Haberler';
-    }
+
+$rootScope.selectForEditIndex  = $index;
+
+
+           window.location.href = 'http://localhost:3000/#/HaberEdit';
+   
 
    
 }

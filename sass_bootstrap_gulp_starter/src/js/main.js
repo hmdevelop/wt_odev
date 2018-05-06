@@ -60,6 +60,12 @@ mainApp.config(['$routeProvider', function($routeProvider ) {
     controller: 'HaberekleController'
  }).
 
+ when('/HaberEdit', {
+  templateUrl: 'HaberEdit.htm',
+  controller: 'HaberEditController'
+}).
+
+
  when('/Anasayfa', {
     templateUrl: 'Anasayfa.htm',
     controller: 'AnasayfaController'
