@@ -1,6 +1,6 @@
 mainApp.controller('CikisController', function($scope,$rootScope) {
     $scope.message = "Cikis  mesaji";
-    $rootScope.name = 'AngularJS';
+   
  
       
 
