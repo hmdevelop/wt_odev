@@ -9,7 +9,7 @@ mainApp.controller('BizeUlasinController', function($scope,$rootScope) {
          $scope.postt.push(t_post);
 
 
-         window.location.href = 'http://localhost:3000/#/';
+         window.location.href = '#/';
            /* var t_new = {baslik: $scope.t_baslik , body: $scope.t_body};
 
             $scope.news = news;

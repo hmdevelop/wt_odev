@@ -41,7 +41,7 @@ mainApp.controller('GirisController', function($scope,$rootScope) {
            
 
     
-                window.location.href = 'http://localhost:3000/#/Haberler';
+                window.location.href = '#/Haberler';
         }
 
 
@@ -57,7 +57,7 @@ mainApp.controller('GirisController', function($scope,$rootScope) {
             $rootScope.userl = false;
             console.log("çikildi");
     
-                window.location.href = 'http://localhost:3000/#/Haberler';
+                window.location.href = '#/Haberler';
         }
 
 

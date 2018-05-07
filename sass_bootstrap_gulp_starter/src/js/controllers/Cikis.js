@@ -15,7 +15,7 @@ mainApp.controller('CikisController', function($scope,$rootScope) {
            
             console.log("çikildi");
     
-                window.location.href = 'http://localhost:3000/#/Haberler';
+                window.location.href = '#/Haberler';
         }
 
 

@@ -21,7 +21,7 @@ $scope.habersil =   function ($index){
 
 
        
-           window.location.href = 'http://localhost:3000/#/Haberler';
+           window.location.href = '#/Haberler';
     
 
    
@@ -41,7 +41,7 @@ $scope.haberduzenle =   function ($index){
 $rootScope.selectForEditIndex  = $index;
 
 
-           window.location.href = 'http://localhost:3000/#/HaberEdit';
+           window.location.href = '#/HaberEdit';
    
 
    

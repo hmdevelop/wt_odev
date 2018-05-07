@@ -10,7 +10,7 @@ mainApp.controller('HaberekleController', function($scope , $rootScope) {
             $scope.news = news;
            var t_news = $scope.news;
                    t_news.push(t_new);
-               window.location.href = 'http://localhost:3000/#/Haberler';
+               window.location.href = '#/Haberler';
         }
 
        

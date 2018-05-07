@@ -31,7 +31,7 @@ if($rootScope.selectForEditIndex==undefined){
            var t_news = $scope.news;
                    t_news.push(t_new);
                    t_news.splice($scope.selectForEditIndex, 1);
-               window.location.href = 'http://localhost:3000/#/Haberler';
+               window.location.href = '#/Haberler';
         }
          
       
